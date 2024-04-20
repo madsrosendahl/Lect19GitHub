@@ -5,3 +5,15 @@ public class Main {
     System.out.println("And keep it simple");
   }
 }
+
+
+class StudBase{
+
+}
+class Student{
+  String firstname;
+  String lastname;
+  String baseprog;
+  String email;
+
+}
